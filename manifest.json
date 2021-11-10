@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
+	"id": "obsidian-backlinks-filter",
+	"name": "Backlinks Filter",
+	"version": "0.4.4",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Add a filter for Backlinks that shows all related [[Links]] to filter... similar to in Roam Research",
+	"author": "Murf",
+	"authorUrl": "https://github.com/GitMurf",
 	"isDesktopOnly": false
 }

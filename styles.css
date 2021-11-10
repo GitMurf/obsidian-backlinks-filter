@@ -1,4 +1,8 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+/* On Hover change filter notice */
+
+div.notice.bl-filter:hover {
+    background-color: red;
+    color: white;
+    /*font-weight: bold;*/
+    cursor: pointer;
 }
